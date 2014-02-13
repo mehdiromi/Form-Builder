@@ -1,8 +1,8 @@
 Form Builder
 ============
 
-Purpose
--------
+###Purpose
+
 
 * Let you create a form in a WYSIWYG way
 * Generate JSON
