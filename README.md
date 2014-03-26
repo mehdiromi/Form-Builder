@@ -11,6 +11,7 @@ Form Builder
 * Easy to use 
 * Easy to deploy
 
+Generate angular code , js, back end object 
 
 
 
